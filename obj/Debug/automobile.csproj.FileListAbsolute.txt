@@ -1,0 +1,10 @@
+C:\Users\jahra\source\repos\automobile\obj\Debug\automobile.csprojAssemblyReference.cache
+C:\Users\jahra\source\repos\automobile\obj\Debug\automobile.FrmAutomibilecost.resources
+C:\Users\jahra\source\repos\automobile\obj\Debug\automobile.Properties.Resources.resources
+C:\Users\jahra\source\repos\automobile\obj\Debug\automobile.csproj.GenerateResource.cache
+C:\Users\jahra\source\repos\automobile\obj\Debug\automobile.csproj.CoreCompileInputs.cache
+C:\Users\jahra\source\repos\automobile\bin\Debug\automobile.exe.config
+C:\Users\jahra\source\repos\automobile\bin\Debug\automobile.exe
+C:\Users\jahra\source\repos\automobile\bin\Debug\automobile.pdb
+C:\Users\jahra\source\repos\automobile\obj\Debug\automobile.exe
+C:\Users\jahra\source\repos\automobile\obj\Debug\automobile.pdb
